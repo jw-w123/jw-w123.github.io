@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            Not Found Page
+title:            404 Page
 tagline:          'Test Github Page'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'The <a href="http://hyde.getpoole.com" target="_blank">GitHub</a> Page for <a href="http://jekyllrb.com" target="_blank">Test</a>.'
 url:              https://jw-w123.github.io
 baseurl:          
                   # the optional subpath of your site, e.g. "/blog"
